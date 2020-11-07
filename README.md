@@ -1,2 +1,2 @@
 # Robert the Robot
-I am building a robot to chase and shoot my brothers with BBs. More information forthcoming.
+Currently working on a rocker bogie robot that will clib stairs and follow a target.
